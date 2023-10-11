@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshGaur017
-- 👀 I’m interested in programming using Python, Javascript, Web Development, Flutter
+- 👀 I’m interested in programming using Java, Javascript, Web Development, Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on web development & flutter projects
 - 📫 How to reach me Contact me through - harshgaur017@gmail.com
