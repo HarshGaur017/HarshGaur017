@@ -54,9 +54,8 @@ I'm a passionate **Software Engineer** specializing in **cross-platform mobile d
 
 ### 📊 **GitHub Stats:**  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshGaur017&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshGaur017&theme=radical" alt="GitHub Streak" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGaur017&layout=compact&theme=radical" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshGaur017&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGaur017&layout=compact&theme=radical&count_private=true" alt="Top Languages" />  
 </p>  
 
 💡 Always open to learning new technologies and contributing to impactful projects. Let's connect!  
