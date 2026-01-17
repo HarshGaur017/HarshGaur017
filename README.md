@@ -57,14 +57,16 @@ I design and implement **scalable full-stack systems**, with deep expertise in *
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
-#### 🧠 **AI, Search & Intelligence**
+#### 🧠 **AI, LLMs & Intelligent Systems**
 <p>
-  <img src="https://img.shields.io/badge/Vector%20Embeddings-5A5A5A?style=flat"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5A5A5A?style=flat"/>
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-0A0A0A?style=flat"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-0A0A0A?style=flat"/>
   <img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Semantic%20Search-5A5A5A?style=flat"/>
-  <img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat&logo=meilisearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-5A5A5A?style=flat"/>
+  <img src="https://img.shields.io/badge/Semantic%20Retrieval-0A0A0A?style=flat"/>
 </p>
+
 
 #### 📚 **State Management & Architecture**
 <p>
